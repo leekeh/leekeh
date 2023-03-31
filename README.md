@@ -1,16 +1,24 @@
-### Hi there 👋
+<img align="center" src="https://github.com/leekeh/leekeh/blob/main/banner.jpg" alt="" /> 
 
-<!--
-**leekeh/leekeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">leekeh</h1>
 
-Here are some ideas to get you started:
+<img align="left" src="https://github.com/leekeh/leekeh/blob/main/portrait.jpeg" alt="Bakaguya made by レヴィノス (https://www.pixiv.net/en/artworks/80962527)" width="300px" /> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+```yml
+Name: Lieke B[REDACTED]
+Pronouns: She/her
+Age: 26
+Location: The Netherlands
+Description: | 
+Hi, I'm Lieke, a bookseller-turned-developer. At my current job I 
+work on a multilabel design system and focus on accessibility and 
+consistent patterns (code and design). I work mainly with NextJS,
+NX and TypeScript, but I am also learning Svelte in my free time.
+Hobbies: Bouldering, pottery, international train travel, cooking
+Currently playing: Professor layton and the miracle mask
+Currently listening to: My Sister's Crown - Vesna
+Currently reading: Ik ga leven - Lale Gül
+```
+
+
