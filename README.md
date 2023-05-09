@@ -16,8 +16,8 @@ work on a multilabel design system and focus on accessibility and
 consistent patterns (code and design). I work mainly with NextJS,
 NX and TypeScript, but I am also learning Svelte in my free time.
 Hobbies: Bouldering, pottery, international train travel, cooking
-Currently playing: Professor layton and the miracle mask
-Currently listening to: My Sister's Crown - Vesna
+Currently playing: Yoshi's New Island
+Currently listening to: Tyler, The Creator - See You Again
 Currently reading: Ik ga leven - Lale Gül
 ```
 
