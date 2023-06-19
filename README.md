@@ -8,7 +8,7 @@
 ```yml
 Name: Lieke B[REDACTED]
 Pronouns: She/her
-Age: 26
+Age: 27
 Location: The Netherlands
 Description: | 
 Hi, I'm Lieke, a bookseller-turned-developer. At my current job I 
@@ -16,9 +16,9 @@ work on a multilabel design system and focus on accessibility and
 consistent patterns (code and design). I work mainly with NextJS,
 NX and TypeScript, but I am also learning Svelte in my free time.
 Hobbies: Bouldering, pottery, international train travel, cooking
-Currently playing: Yoshi's New Island
-Currently listening to: Tyler, The Creator - See You Again
-Currently reading: Ik ga leven - Lale Gül
+Currently playing: Tears of the Kingdom
+Currently listening to: Seu Jorge - Amiga da minha mulher
+Currently reading: -
 ```
 
 
